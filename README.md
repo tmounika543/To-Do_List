@@ -3,6 +3,7 @@ TO-DO LIST
 OUTPUT SCREENS:
 ![Screenshot (153)](https://github.com/tmounika543/To-Do_List/assets/166041902/f8703607-b26e-4bd9-96a3-d3c8abc7f60b)
 
+ADDING TASKS:
 ![Screenshot (154)](https://github.com/tmounika543/To-Do_List/assets/166041902/511526ab-8e11-4b1a-bc01-8c31a0a577ab)
 
 ![Screenshot (156)](https://github.com/tmounika543/To-Do_List/assets/166041902/18c642a5-c0d3-43df-87ac-676d2d2306d1)
